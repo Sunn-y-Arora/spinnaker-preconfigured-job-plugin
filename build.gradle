@@ -7,7 +7,7 @@ buildscript {
 }
 
 plugins {
-  id("io.spinnaker.plugin.bundler").version("$spinnakerGradleVersion")
+  id("io.spinnaker.plugin.bundler").version("8.23.0")
   id("com.palantir.git-version").version("0.12.2")
 }
 
